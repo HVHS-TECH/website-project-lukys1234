@@ -11,6 +11,8 @@ p{
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 10px;
+  background-color: #cca43b;
+  ;
 }
 
 .grid-item {
@@ -18,4 +20,10 @@ p{
  grid-column-end:4;
  padding:15px;
  
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
 }
