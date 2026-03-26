@@ -5,6 +5,10 @@ h1{
 
 p{ 
     font-style:initial;
+    border-color: #cca43b;
+    border-width: 5px;
+    border-style: solid;
+    
 } 
 
 .grid-container {
@@ -12,6 +16,7 @@ p{
   grid-template-columns: auto auto auto auto;
   padding: 10px;
   background-color: #cca43b;
+  
   ;
 }
 
