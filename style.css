@@ -1,14 +1,14 @@
 h1{
-    color: #242f40;
+    color: #738290;
     font-size: 2em;
 }
 
 p{ 
     font-style:initial;
-    border-color: #2c405e;
+    border-color: #738290;
     border-width: 5px;
     border-style: solid;
-    background-color: #cca43b;
+    background-color: #ffffff;
     
 } 
 
@@ -16,7 +16,7 @@ p{
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 10px;
-  background-color: #cca43b;
+  background-color: #b50606;
   
   ;
 }
