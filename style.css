@@ -31,7 +31,7 @@ p{
 }
 
 .leftside {
-grid-column-start:0;
+grid-column-start: 0;
 grid-column-end: 1;
 padding: 15px;
 }
